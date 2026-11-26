@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Elyzareth File Utility</string>
+    <string name="app_title">Elyzareth File Utility</string>
+    <string name="app_version_badge">V1.0</string>
+    <string name="app_subtitle">Image • Document • Scan • Convert • Edit • Present</string>
+    <string name="ai_banner_title">AI Help Assistant</string>
+    <string name="ai_banner_powered">Powered by Google Gemini</string>
+    <string name="ai_banner_subtitle">Ask about image size, compression, file conversion, or any feature.</string>
+    <string name="coming_soon_badge">Coming Soon</string>
+    <string name="coming_soon_dismiss">Got It</string>
+    <string name="mini_player_placeholder_title">Elyzareth Music — Ready for Playback</string>
+    <string name="mini_player_placeholder_meta">Audio Engine • Coming in Stage 4</string>
+    <string name="mini_player_time_zero">00:00</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_presets">Presets</string>
+    <string name="nav_settings">Settings</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Elyzareth File Utility",
+  "description": "Elyzareth File Utility V1.0 — Stage 1 Foundation, Frozen Dashboard UI, Category Filtering, Coming Soon Governance, and Docked Mini-Player Placeholder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
